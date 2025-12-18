@@ -1,4 +1,4 @@
-## full stack dev
+## dev
 - currently working on grimkeeper
 - interested in game dev
 - reach me on discord as hystericca
