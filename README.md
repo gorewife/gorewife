@@ -1,5 +1,7 @@
-## Hi there 👋
-
+## full stack dev
+- currently working on grimkeeper
+- interested in game dev
+- reach me on discord as hystericca
 <!--
 **gorewife/gorewife** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
