@@ -1,8 +1,8 @@
-## Viktor
+## This README is in active development (Alpha v0.1.0)
 I am not non-chalant, neither are you. That's why we're on GitHub and not on librefreecodeopensourcecodesoftware.git
 Here's all my accomplishments in my life you miserable bastard
 
-Made [Ophelia](ht), a feature-rich download manager.
+- Made [Ophelia](https://github.com/ophelianz/ophelia), a feature-rich download manager.
 
 
 <p align=center>
