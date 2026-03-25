@@ -9,7 +9,7 @@ Here's all my accomplishments in my life you miserable bastard
 
 
 <p align=center>
-  <img width=560 src=https://github.com/gorewife/gorewife/blob/main/image.png alt="devlog" />
+  <img width=450 src=https://github.com/hystericca/hystericca/blob/main/image.png alt="devlog" />
 </p>
 
 <p align=center>
